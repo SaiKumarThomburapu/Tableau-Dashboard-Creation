@@ -1,0 +1,31 @@
+Employee ID,First Name,Last Name,Department,Job Title,Shift Start Time,Shift End Time,Login Time,Logout Time,Worked Hours,Late Login,Left Early,Percentage Rate,On Time Status,Break Start Time,Break End Time,Break Duration,Leave Status,Leave Type,Leave Days Allotted,Leave Days Taken,Remaining Leave Days
+1000,Theresa,Nguyen,HR,Marketing Analyst,09:00 AM,05:00 PM,09:31 AM,05:18 PM,7.78,Yes,Yes,97.25,Not On Time,12:17 PM,01:02 PM,45.0,Casual Leave,Casual Leave,12,0,12
+1001,Charles,Vargas,IT,HR Manager,09:00 AM,05:00 PM,09:15 AM,05:09 PM,7.9,Yes,Yes,98.75,Not On Time,11:56 AM,12:16 PM,20.0,No Leave,N/A,12,0,12
+1002,James,Butler,Sales,Software Engineer,09:00 AM,05:00 PM,09:57 AM,05:18 PM,7.35,Yes,Yes,91.88,Not On Time,12:49 PM,01:09 PM,20.0,Sick Leave,Sick Leave,12,2,10
+1003,Rebecca,Mclaughlin,Sales,Sales Manager,09:00 AM,05:00 PM,09:11 AM,05:28 PM,8.28,Yes,No,100.0,Not On Time,12:57 PM,01:54 PM,57.0,Sick Leave,Sick Leave,12,3,9
+1004,Joshua,Smith,HR,Marketing Analyst,09:00 AM,05:00 PM,09:13 AM,05:12 PM,7.98,Yes,Yes,99.75,Not On Time,12:45 PM,01:31 PM,46.0,Casual Leave,Casual Leave,12,0,12
+1005,Kelly,Boyer,IT,HR Manager,09:00 AM,05:00 PM,09:06 AM,05:11 PM,8.08,Yes,No,100.0,Not On Time,12:11 PM,12:31 PM,20.0,Casual Leave,Casual Leave,12,3,9
+1006,Lisa,Mcdowell,Marketing,Software Engineer,09:00 AM,05:00 PM,09:05 AM,05:20 PM,8.25,Yes,No,100.0,Not On Time,12:10 PM,12:46 PM,36.0,No Leave,N/A,12,0,12
+1007,James,Nash,Sales,Network Engineer,09:00 AM,05:00 PM,09:25 AM,05:14 PM,7.82,Yes,Yes,97.75,Not On Time,01:23 PM,01:44 PM,21.0,Sick Leave,Sick Leave,12,2,10
+1008,James,Lopez,Marketing,HR Manager,09:00 AM,05:00 PM,09:57 AM,05:20 PM,7.38,Yes,Yes,92.25,Not On Time,12:53 PM,01:47 PM,54.0,No Leave,N/A,12,0,12
+1009,Johnathan,Castillo,HR,Marketing Analyst,09:00 AM,05:00 PM,09:57 AM,05:30 PM,7.55,Yes,Yes,94.38,Not On Time,12:49 PM,01:35 PM,46.0,No Leave,N/A,12,0,12
+1010,Alex,Molina,IT,Sales Manager,09:00 AM,05:00 PM,09:33 AM,05:29 PM,7.93,Yes,Yes,99.12,Not On Time,11:48 AM,12:34 PM,46.0,Casual Leave,Casual Leave,12,1,11
+1011,Kevin,Collins,HR,HR Manager,09:00 AM,05:00 PM,09:15 AM,05:06 PM,7.85,Yes,Yes,98.12,Not On Time,12:41 PM,01:14 PM,33.0,No Leave,N/A,12,0,12
+1012,Valerie,Farrell,Sales,Marketing Analyst,09:00 AM,05:00 PM,09:31 AM,05:00 PM,7.48,Yes,Yes,93.5,Not On Time,01:21 PM,02:06 PM,45.0,Casual Leave,Casual Leave,12,3,9
+1013,John,Herrera,Marketing,Marketing Analyst,09:00 AM,05:00 PM,09:57 AM,05:09 PM,7.2,Yes,Yes,90.0,Not On Time,01:40 PM,02:05 PM,25.0,Sick Leave,Sick Leave,12,1,11
+1014,Patricia,Cross,Marketing,Marketing Analyst,09:00 AM,05:00 PM,09:40 AM,05:13 PM,7.55,Yes,Yes,94.38,Not On Time,01:32 PM,02:15 PM,43.0,No Leave,N/A,12,0,12
+1015,Marisa,Curry,HR,Marketing Analyst,09:00 AM,05:00 PM,09:35 AM,05:24 PM,7.82,Yes,Yes,97.75,Not On Time,12:23 PM,12:49 PM,26.0,No Leave,N/A,12,0,12
+1016,Cheryl,Moore,Sales,HR Manager,09:00 AM,05:00 PM,09:08 AM,05:13 PM,8.08,Yes,No,100.0,Not On Time,11:43 AM,12:35 PM,52.0,Casual Leave,Casual Leave,12,1,11
+1017,Charles,Hernandez,HR,Marketing Analyst,09:00 AM,05:00 PM,09:38 AM,05:27 PM,7.82,Yes,Yes,97.75,Not On Time,12:27 PM,01:21 PM,54.0,No Leave,N/A,12,0,12
+1018,Zachary,Thompson,Marketing,Network Engineer,09:00 AM,05:00 PM,09:07 AM,05:11 PM,8.07,Yes,No,100.0,Not On Time,12:17 PM,12:48 PM,31.0,No Leave,N/A,12,0,12
+1019,Jonathan,Alexander,HR,HR Manager,09:00 AM,05:00 PM,09:04 AM,05:17 PM,8.22,Yes,No,100.0,Not On Time,01:01 PM,01:23 PM,22.0,Sick Leave,Sick Leave,12,4,8
+1020,Michelle,Wolf,Marketing,Software Engineer,09:00 AM,05:00 PM,09:22 AM,05:14 PM,7.87,Yes,Yes,98.38,Not On Time,12:47 PM,01:21 PM,34.0,Sick Leave,Sick Leave,12,4,8
+1021,Mary,Ray,Sales,Network Engineer,09:00 AM,05:00 PM,09:27 AM,05:10 PM,7.72,Yes,Yes,96.5,Not On Time,12:03 PM,12:52 PM,49.0,No Leave,N/A,12,0,12
+1022,Victoria,Anderson,Marketing,HR Manager,09:00 AM,05:00 PM,09:29 AM,05:29 PM,8.0,Yes,No,100.0,Not On Time,01:13 PM,01:55 PM,42.0,No Leave,N/A,12,0,12
+1023,Christopher,Sullivan,IT,Software Engineer,09:00 AM,05:00 PM,09:11 AM,05:12 PM,8.02,Yes,No,100.0,Not On Time,11:23 AM,11:51 AM,28.0,No Leave,N/A,12,0,12
+1024,Richard,Harris,HR,HR Manager,09:00 AM,05:00 PM,09:08 AM,05:17 PM,8.15,Yes,No,100.0,Not On Time,11:20 AM,11:55 AM,35.0,No Leave,N/A,12,0,12
+1025,April,Patrick,HR,Network Engineer,09:00 AM,05:00 PM,09:23 AM,05:02 PM,7.65,Yes,Yes,95.62,Not On Time,12:05 PM,12:37 PM,32.0,No Leave,N/A,12,0,12
+1026,Patrick,Strong,IT,Marketing Analyst,09:00 AM,05:00 PM,09:33 AM,05:28 PM,7.92,Yes,Yes,99.0,Not On Time,01:20 PM,02:12 PM,52.0,No Leave,N/A,12,0,12
+1027,Sarah,Butler,Sales,Sales Manager,09:00 AM,05:00 PM,09:52 AM,05:26 PM,7.57,Yes,Yes,94.62,Not On Time,01:25 PM,02:15 PM,50.0,Sick Leave,Sick Leave,12,4,8
+1028,Roy,Ramirez,HR,Marketing Analyst,09:00 AM,05:00 PM,09:40 AM,05:24 PM,7.73,Yes,Yes,96.62,Not On Time,12:01 PM,12:57 PM,56.0,Casual Leave,Casual Leave,12,2,10
+1029,Nicholas,Weeks,HR,HR Manager,09:00 AM,05:00 PM,09:09 AM,05:20 PM,8.18,Yes,No,100.0,Not On Time,11:54 AM,12:35 PM,41.0,No Leave,N/A,12,0,12
