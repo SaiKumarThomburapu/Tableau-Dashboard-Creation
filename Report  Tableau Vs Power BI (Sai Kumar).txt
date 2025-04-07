@@ -1,0 +1,33 @@
+>>>>> Report <<<<<< <Tableau Vs Power BI>
+
+This report presents a comparative analysis of Tableau and Power BI based on the dashboard creation project I undertook. The focus is on usability, performance, features, and insights derived from each tool.
+
+Objective: To create interactive dashboards showcasing key KPIs, trends, and filters for dynamic insights.
+
+< Tools Comparison >
+
+..Feature/Aspect..	                                   ..Tableau..	                                                                 ..Power BI..
+
+*User Interface	                           /Visually intuitive and highly customizable	                                         /Clean and user-friendly with a Microsoft feel
+*Ease of Use	                           /Slight learning curve, more drag-and-drop flexibility	                         /Easier for beginners, especially Excel users
+*Data Connectivity	                   /Supports a wide range of connectors	                                                 /Also supports many sources, strong with Microsoft stack
+*Speed/Performance	                   /Slightly better with large datasets	                                                 /Slower with huge data volumes unless optimized
+*Visual Customization	                   /Rich and advanced visualizations	                                                 /Great visuals, but some limitations
+*DAX vs Calculated Fields	           /Tableau uses calculated fields, easier syntax	                                 /Power BI uses DAX, powerful but harder to learn
+*Interactivity	                           /Smooth and responsive	                                                         /Very interactive with slicers, filters
+*Publishing/Sharing	                   /Tableau Public/Tableau Server	                                                 /Easy with Power BI Service & SharePoint
+*Cost	                                   /Higher (Tableau Pro License)	                                                 /Cheaper or free with limited features
+
+
+
+>>MY OBSERVATIONS<<
+
+& Power BI was faster to get started with and great for building quick reports.
+&Tableau offered more flexibility in terms of design and storytelling.
+&Power BI’s integration with Excel is a huge plus for business users.
+&Tableau's drag-and-drop interface and parameter usage were more fluid for advanced visualizations.
+&Data modeling was easier in Power BI using Power Query and DAX, but learning DAX took time.
+&Tableau dashboards looked more visually appealing and professional.
+&Publishing and sharing on Power BI was more seamless within the Microsoft ecosystem.
+
+Based on the project, if quick deployment and cost are key, Power BI is preferable. For rich visual stories and more design flexibility, Tableau leads.
